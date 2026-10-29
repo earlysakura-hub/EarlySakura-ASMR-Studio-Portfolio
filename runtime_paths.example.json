@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "lm_studio_base_url": "http://localhost:1234/v1",
+  "lm_studio_model": "qwen/qwen3-4b-2507",
+  "lms": null,
+  "ffprobe": null,
+  "vlc_directory": null,
+  "gpu_dll_directories": [],
+  "data_root": null,
+  "audio_directory": null,
+  "library_root": null,
+  "legacy_source_directory": null,
+  "legacy_tag": "Imported",
+  "legacy_srt_aliases": {}
+}

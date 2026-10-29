@@ -1,0 +1,13 @@
+# Tested on Windows x64 with Python 3.13.16. No model weights are installed here.
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+av==18.1.0
+onnxruntime==1.31.0
+tokenizers==0.23.3
+huggingface-hub==2.2.0
+hf-xet==1.7.0
+numpy==2.5.3
+requests==2.34.2
+python-vlc==3.0.21203
+pynput==1.8.2
+tqdm==4.70.1
